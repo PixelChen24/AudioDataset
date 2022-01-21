@@ -1,7 +1,7 @@
 ## Download Dataset of Music21 &amp; AudioSet &amp; VGGSound
 This repository is aimed to help you get datasets in field of music separation.
 * For `Nusic21` Dataset, run `Music21.py`. Downloaded files will be stored in `Dataset/Music21`
-  * **Currently not available.**
+  * Files will be named in this foarmat:`YoutubeID`+`+`+`label`+`.mp4`
   
     
 
